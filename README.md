@@ -7,7 +7,7 @@ Depending on the configuration made by the infrastructure analyst, there are som
 I created this quick document to demonstrate some techniques for this, including, I already used it and managed to pass the **403 error** and access database administrative login pages.
 
 <p align="center">
-  <img width="600" height="300" src="./img/1">
+  <img width="600" height="300" src="./img/1.png">
 </p>
 
 
