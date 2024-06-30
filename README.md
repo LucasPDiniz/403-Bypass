@@ -7,9 +7,9 @@ Depending on the configuration made by the infrastructure analyst, there are som
 I created this quick document to demonstrate some techniques for this, including, I already used it and managed to pass the **403 error** and access database administrative login pages.
 
 <p align="center">
-  <img width="600" height="300" src="https://geekblog.com.br/wp-content/uploads/2021/03/1_MIrLuyiCDpdNbnFYxYlKtA-950x500.jpg">
+  <img width="600" height="300" src="./img/1">
 </p>
-<br>
+
 
 ## Some techniques :page_facing_up:
 
